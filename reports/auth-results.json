@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-05T03:50:57.933Z",
+  "results": [
+    {
+      "id": "AUTH-001",
+      "status": "PASS",
+      "message": "Login exitoso"
+    },
+    {
+      "id": "AUTH-002",
+      "status": "PASS",
+      "message": "Email incorrecto rechazado"
+    },
+    {
+      "id": "AUTH-003",
+      "status": "PASS",
+      "message": "Password incorrecto rechazado"
+    },
+    {
+      "id": "AUTH-008",
+      "status": "FAIL",
+      "message": "URL actual: https://alma-finanzas.com/dashboard"
+    }
+  ]
+}
